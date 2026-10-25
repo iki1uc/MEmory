@@ -19,3 +19,4 @@ Es ist NICHT gestattet:
 Nur der Urheber (iki1uc) hat Nutzungsrechte.
 
 Jede Nutzung ohne ausdrückliche schriftliche Genehmigung ist verboten.
+discord.edit.open
