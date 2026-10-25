@@ -10,3 +10,4 @@ Nur der Autor iki1uc darf dieses Projekt verwenden, verbreiten
 oder erweitern.
 
 Externe Nutzung nur mit expliziter Business-Lizenz.
+discord.edit.open
